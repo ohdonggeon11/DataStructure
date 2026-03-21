@@ -10,7 +10,7 @@ int main() {
   
     srand(time(NULL));
 
-    printf("--- 학생 10명의 성적 생성 ---\n");
+    printf("학생 10명의 성적 생성\n");
 
     
     for (int i = 0; i < 10; i++) {
