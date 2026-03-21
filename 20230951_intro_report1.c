@@ -17,7 +17,7 @@ int main() {
         scores[i] = rand() % 101;
         sum += scores[i];         
 
-        printf("%d번 학생 점수: %d점\n", i + 1, scores[i]);
+         printf("%d번 학생 점수: %d점\n", i + 1, scores[i]);
     }
 
   
